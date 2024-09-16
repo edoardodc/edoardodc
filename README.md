@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello! 👋
+
+I'm Edoardo, an engineering student at Politecnico di Milano with a passion for blending creativity and technology to build products people love.
+
+I’ve had the privilege of attending Apple WWDC as a scholar, creating the “Drinking Fountains” app—used by over 100k people to find water resources worldwide—and developing “WopStation,” a platform that simplifies satellite data access for farmers. I’ve also had the honor of speaking at COP28 and the United Nations HQ in New York City.
+
+Always excited by challenging problems and new technologies, I’m currently working on projects with TypeScript and React.
 
 <!--
 **edoardodc/edoardodc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
