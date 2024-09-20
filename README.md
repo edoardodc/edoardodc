@@ -38,7 +38,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Figma" src="[https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 
 
   
