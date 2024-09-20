@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Edoardo, an engineering student at POLIMI. I am passionate about blending creativity and technology to build products.</p>
+<p>Welcome to my page! </br> I'm Edoardo, an engineering student at POLIMI. I am passionate about blending creativity and technology to build digital products.</p>
 <ul>
   <li>🧑🏻‍💻 <strong>Hackathon Hacker:</strong> I've attended several hackathons in Europe and North America</li>
   <li> <strong>WWDC17, 19 & 21 Scholarship Recipient</strong></li>
