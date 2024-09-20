@@ -7,7 +7,7 @@
   <li> <strong>WWDC17, 19 & 21 Scholarship Recipient</strong></li>
   <li>💧 <strong>Creator of <a href="https://apps.apple.com/it/app/fontanelle-dacqua/id1493955783">Drinking Fountains:</a></strong> this app has reached 100,000 users!</li>
   <li>🇺🇳 <strong>UN Speaker:</strong> Thanks to my activism in building climate-tech projects, I've been invited as a speaker at COP28 in Dubai and at UNHQ in New York City.</li>
-  <li>👨‍🏫 <strong>iOS Development mentor at start2impact</strong></li>
+  <li>👨‍🏫 <strong>iOS Development mentor at <a href="https://www.start2impact.it/">start2impact</a></strong></li>
   <li>💻 <strong>Languages I am most confident in:</strong> Italian, English, Swift, Python, JavaScript, Dart, R</li>
   <li>📫 <strong>How to reach me:</strong> email me at <a href="mailto:edoardo.decal@gmail.com">edoardo.decal@gmail.com</a></li>
 </ul>
